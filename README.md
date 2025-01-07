@@ -10,7 +10,7 @@ A project for predicting strain in engineering systems using regression and time
 StrainPrediction/
 ├── README.md               # Project introduction and setup instructions
 ├── requirements.txt        # List of dependencies
-├── run.py                  # Main script to run the project
+├── run.ipynb               # Main script to run the project
 ├── data/                   # Directory to store datasets
 └── .gitignore              # Git ignore file
 ```
@@ -21,7 +21,7 @@ StrainPrediction/
 
 ### 1. Clone the repository and navigate to the project directory:
 ```bash
-git clone <repository-url>
+git clone https://github.com/separk-1/StrainPrediction.git
 cd StrainPrediction
 ```
 
@@ -96,7 +96,3 @@ pip install -r requirements.txt
   - Column 1: Strain measurements (in micro-strains, με).
   - Columns 2-7: Temperature measurements from six thermometers (in °C).
 - Data is collected every **30 minutes for one week**.
-
----
-
-Feel free to contribute or report issues. Let’s make strain prediction smarter! 🚀
