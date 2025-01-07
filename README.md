@@ -1,12 +1,8 @@
-Here’s a polished and clean version of your `README.md`:
-
-```markdown
 # StrainPrediction
 
 A project for predicting strain in engineering systems using regression and time-series analysis.
 
 ## Project Structure
-```plaintext
 StrainPrediction/
 ├── README.md               # Project introduction and setup instructions
 ├── requirements.txt        # List of dependencies
